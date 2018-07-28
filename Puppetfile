@@ -15,6 +15,6 @@ mod 'puppetlabs/concat',      '4.2.1'
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
-mod 'puppet-ssh'
+mod 'puppet-ssh',
    :git => 'https://github.com/saz/puppet-ssh.git'
    :ref => 'master'
